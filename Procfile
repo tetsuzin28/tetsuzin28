@@ -1,0 +1,1 @@
+web: gunicorn line_bot訂正:app --log-file=-
