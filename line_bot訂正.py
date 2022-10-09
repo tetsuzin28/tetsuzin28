@@ -7,11 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1oKYfcEgu3G809mtWbTV2s1zqgMA3WTON
 """
 
-!pip install pyngrok
-!ngrok authtoken 2DFjJnC6vm755foPsFq3DTq5Qjo_6zQWrC1eERxz1pPfdZSff #自分で取得したtokenを入力してください
-!pip install flask_ngrok
-!pip install pya3rt
-!pip install line-bot-sdk
 
 
 
